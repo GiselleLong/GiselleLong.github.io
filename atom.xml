@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://GiselleLong.github.io</id>
+    <title>Shiyao(Giselle) Long</title>
+    <updated>2023-05-10T14:49:05.437Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://GiselleLong.github.io"/>
+    <link rel="self" href="https://GiselleLong.github.io/atom.xml"/>
+    <logo>https://GiselleLong.github.io/images/avatar.png</logo>
+    <icon>https://GiselleLong.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Shiyao(Giselle) Long</rights>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://GiselleLong.github.io/post/about-me/</id>
+        <link href="https://GiselleLong.github.io/post/about-me/">
+        </link>
+        <updated>2023-05-10T14:35:21.000Z</updated>
+        <content type="html"><![CDATA[<p>My name is Shiyao(Giselle) Long, and I am originally from Wuhan, China. I am currently a graduate student at the Hong Kong University of Science and Technology, studying Information Technology. Prior to that, I completed my undergraduate studies in Computer Science at Queen's University in Canada.</p>
+<p>Throughout my academic journey, I have developed a keen interest in product management. I am passionate about creating user-centered products that not only solve real-world problems but also enhance the user's experience. I believe that effective communication and collaboration are crucial skills for a product manager, and I strive to continuously improve in these areas.</p>
+<p>In my free time, I enjoy hiking, trying new cuisines, and learning about different cultures.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSIT6000N Critical Thinking Competition]]></title>
+        <id>https://GiselleLong.github.io/post/csit6000n-critical-thinking-competition/</id>
+        <link href="https://GiselleLong.github.io/post/csit6000n-critical-thinking-competition/">
+        </link>
+        <updated>2023-05-10T14:28:28.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://GiselleLong.github.io/post-images/1683729056642.png" alt="" loading="lazy"></figure>
+<h2 id="before-i-learn-this-course"><strong>Before I learn this course....</strong></h2>
+<p>In today's fast-paced world where time is of the essence, businesses need to operate efficiently to meet customer demands. Wireless paging systems are becoming increasingly popular in the restaurant industry because of their ability to increase customer satisfaction and streamline restaurant operations. With this technology, restaurants can manage incoming orders quickly and accurately, reducing wait times and minimizing mistakes in food preparation. This not only improves the customer experience, but also increases the overall efficiency of the restaurant.<br>
+Imagine walking into a restaurant, placing an order, and then being handed a small portable pager. No more waiting anxiously at the pick-up counter for your food. Then you can wander around, relax, and even do some shopping while you wait for the pager to start ringing. That's exactly what a wireless paging system can provide - a better dining experience for customers.<br>
+But it is not just customers who benefit from this technology. The wireless paging system is also user-friendly, with a simple interface that allows staff to manage incoming orders quickly and easily. It simplifies communications between staff and customers, reducing the chance of mistakes and making operations smoother and more organized.<br>
+In short, wireless paging systems have become a game changer in the catering industry. Its ability to enhance the customer experience, streamline restaurant operations, and increase employee productivity makes it a valuable investment for businesses looking to stay competitive in today's fast-paced world.</p>
+<h2 id="after-i-learned-this-course"><strong>After I learned this course...</strong></h2>
+<p>After reflecting on my previous idea, I still believe that wireless paging systems are a valuable technology for the restaurant industry. However, I also recognize that there are potential drawbacks and limitations to this design that should be considered.<br>
+From a user-centered design perspective, wireless paging systems can enhance the customer experience by reducing wait times and improving the accuracy of orders. However, some customers may prefer traditional methods of ordering and may feel disconnected from the dining experience if they are given a pager and encouraged to wander around the restaurant. In addition, some customers may find the pagers cumbersome or difficult to use, especially if they have disabilities or mobility issues.<br>
+When considering feasibility and viability, it is important to acknowledge that implementing wireless paging systems can be costly for restaurants, especially smaller businesses. In addition, these systems require regular maintenance and updates to ensure that they are functioning properly, which can add to the overall expense.<br>
+Finally, from an empathetic design perspective, One potential concern with wireless paging systems is that they may not meet the needs of all customers. For example, individuals with disabilities or sensory sensitivities may find the buzzing or flashing of the pager to be overwhelming or disorienting. In order to address this concern, it is important for designers to take an empathetic approach and consider the diverse needs of all users when designing the system.<br>
+Overall, while I still believe that wireless paging systems have the potential to improve the efficiency and customer experience in the restaurant industry, it is important to consider the potential drawbacks and limitations of this design. By taking a holistic and empathetic approach to design, we can ensure that technology is implemented in a way that truly enhances the dining experience for all stakeholders involved.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIST6000N Course Project Reflection]]></title>
+        <id>https://GiselleLong.github.io/post/cist6000n-course-project-reflection/</id>
+        <link href="https://GiselleLong.github.io/post/cist6000n-course-project-reflection/">
+        </link>
+        <updated>2023-05-10T14:23:23.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="what-have-i-done"><strong>What have I done</strong></h2>
+<p>For the first phase of the project, I contributed in the storyboard construction and built up the whole story. I also contributed in design the questionaire. And for the second phase of the project, Huang Qiuhua and I designed the user interface of our fitness coaching app, and produced the prototype. And I also filmed the video demo and edited it. For both of the phases, I am responsible for producing high quality slides.</p>
+<h2 id="my-reflection"><strong>My reflection</strong></h2>
+<p>Designing this fitness coaching app has been an excellent opportunity for me to apply the principles of human-computer interaction in a real-world context. Throughout the design process, I had to consider not only the functionality of the app but also how it would interact with the user in a meaningful and engaging way. I found that the key principles of user-centered design, such as customization, simplicity, and consistency, were critical in creating a user-friendly and enjoyable experience for our users. Additionally, the integration of AI and computer vision technology allowed us to create innovative features that enhance the user's workout experience in a personalized and interactive way. Overall, this project has reinforced my understanding of the importance of user-centered design and the potential of technology to create more engaging and meaningful interactions between humans and computers.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSIT6000N Project - Phase 2]]></title>
+        <id>https://GiselleLong.github.io/post/csit6000n-project-phase-2/</id>
+        <link href="https://GiselleLong.github.io/post/csit6000n-project-phase-2/">
+        </link>
+        <updated>2023-05-10T13:40:51.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="toppic-new-human-need-in-the-post-pandemic-era">Toppic: (New) Human Need in the Post-Pandemic Era</h2>
+<h2 id="recap"><strong>Recap</strong></h2>
+<p>To know about our needfinding process, please go to the link below<br>
+<a href="https://gisellelong.github.io/post/csit6000n-project-phase-1/">csit6000n-project-phase-1</a></p>
+<h2 id="video-demo"><strong>Video Demo</strong></h2>
+<figure data-type="image" tabindex="1"><a href="https://www.youtube.com/watch?v=vNrDdV7tloU" title="Video Demo-Group7"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1683474090/video_to_markdown/images/youtube--vNrDdV7tloU-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Video Demo-Group7" loading="lazy"></a></figure>
+<h2 id="key-design-decisions"><strong>Key Design Decisions</strong></h2>
+<p>Our design should...</p>
+<ul>
+<li>Suitable for beginners</li>
+<li>Easily done at home</li>
+<li>Feedback to users at all stages of the progress</li>
+<li>Consistency design on colors, typography, and layout</li>
+<li>Clean, simple, and easy-to-navigate UI</li>
+</ul>
+<h2 id="user-interface"><strong>User Interface</strong></h2>
+<figure data-type="image" tabindex="2"><img src="https://GiselleLong.github.io/post-images/1683728444418.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSIT6000N Project - Phase 1]]></title>
+        <id>https://GiselleLong.github.io/post/csit6000n-project-phase-1/</id>
+        <link href="https://GiselleLong.github.io/post/csit6000n-project-phase-1/">
+        </link>
+        <updated>2023-05-08T12:40:47.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="topic-new-human-need-in-the-post-pandemic-era">Topic:  (New) Human Need in the Post-Pandemic Era</h2>
+<p>Group 7:<br>
+HUANG Qiuhua 20888812 qhuangba@connect.ust.hk<br>
+LONG Shiyao 20932120 slongaa@connect.ust.hk<br>
+CHEN Chen 20881450 cchencu@connect.ust.hk<br>
+PAN Han 20881280 hpanan@connect.ust.hk<br>
+ZHAO Zhuoyue 20880133 zzhaoby@connect.ust.hk<br>
+ZHOU, Qian 20759695 qzhouak@connect.ust.hk</p>
+<h2 id="brainstorming"><strong>Brainstorming</strong></h2>
+<h3 id="whats-changed-during-the-pandemic">What's changed during the pandemic?</h3>
+<p><img src="https://GiselleLong.github.io/post-images/1683717543351.png" alt="" loading="lazy"><br>
+When we brainstormed about this topic, we have organized them into four aspects: psychological, economic, technological and physical.<br>
+First, the pandemic has separated us from our family, friends and even lovers, many of those social interactions have been re-prioritized in our life and many people now become more aware of the importance of mental health.<br>
+Secondly, the pandemic also made many people out of their jobs and the job market is very tough. People need to readjust their expectations for their career and think more about how to achieve work-life balance, with more stable financials.</p>
+<p>Thirdly, the pandemic has accelerated the use of technology for remote work, remote study, online shopping and even seeing doctors online. Many people’s mindset has been shifted and there are many more things that are changing from default offline to default online.</p>
+<p>Lastly, the pandemic has taught people the importance of our health. People are now much more careful with personal hygiene and sanitization. Staying at home also improved people’s cooking skills.</p>
+<p>We decided to go further with last point around fitness.</p>
+<h3 id="fitness-needs-after-pandemic">Fitness needs after pandemic</h3>
+<p><img src="https://GiselleLong.github.io/post-images/1683717854952.png" alt="" loading="lazy"><br>
+When we compare different workout options, we see that although gym workouts offer better equipment and for people with lots of commitments. Outdoor and home workouts are easier to get started with and have more potential to help most people become fit. The limitations of outdoor workouts and home workouts can be addressed with better choices, coaching and guidance.</p>
+<h2 id="pov"><strong>POV</strong></h2>
+<p><img src="https://GiselleLong.github.io/post-images/1683719355909.png" alt="" loading="lazy"><br>
+Because of convenience sampling, we want to focus on the needs of the college students. They want to improve their fitness &amp; health. They need to have a convenient, cost efficient and effective workout routine that can fit into their busy schedule, can be easily adjusted according to their space and available equipment, and more importantly with professional guidance on the proper ways to do it.</p>
+<h2 id="storyboards"><strong>Storyboards</strong></h2>
+<p><img src="https://GiselleLong.github.io/post-images/1683722904606.png" alt="" loading="lazy"><br>
+Let’s look at our first storyboard.<br>
+There is a college student who lives in the dormitory, who has just recovered from Covid, and he says &quot;I feel like my body is so weak lately, but I have never exercised before. What should I do to start?&quot;<br>
+The problem is that many students who want to start exercising, often don't know where to begin. The overwhelming amount of information on the internet can be intimidating.<br>
+That's where our intervention comes in. Imagine if that student could chat with an AI-based chatbot within a fitness app for more personalized workout plans based on his own situation.<br>
+And we can picture that the outcome of using this app is improved mental and physical health. By tailoring the workout experience to the user's individual needs and preferences, the application can help users achieve long-term success in their fitness journey.<br>
+<img src="https://GiselleLong.github.io/post-images/1683722914453.png" alt="" loading="lazy"><br>
+For the second storyboard,<br>
+This time let’s imagine a student who wants to exercise scientifically and receive professional guidance but is concerned about COVID-19 transmission in crowded gyms.<br>
+This person wants to exercise safely and effectively, but doesn't have access to professional trainers or gym equipment, creating a problem for them.<br>
+Our solution is an AI-based fitness coaching application that can provide personalized exercise plans and real-time feedback on performance. The app can use data from the user's wearable fitness tracker or smartphone sensors or camera to monitor their movements and provide feedback on form, cadence, and other performance metrics. The app can also provide audio coaching and motivation in real-time, adjusting the workout based on the user's performance and goals. This application allows users to exercise safely and effectively no matter where they choose to work out.<br>
+The outcome of this app is improved physical and mental health, as users are able to exercise scientifically and safely, regardless of their location or access to resources. With this application, users can achieve their fitness goals and stay healthy while minimizing their exposure to COVID-19.</p>
+<h2 id="final-idea"><strong>Final Idea</strong></h2>
+<p><img src="https://GiselleLong.github.io/post-images/1683725508286.png" alt="" loading="lazy"><br>
+Finally, our final solution is to design an AI-based fitness coaching app which can provide personalised workout plans and real-time feedback during exercising.</p>
+]]></content>
+    </entry>
+</feed>
